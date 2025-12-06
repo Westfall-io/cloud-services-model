@@ -1,0 +1,12 @@
+{
+  "index": {
+    "Kubernetes": "k8s.sysml"
+  },
+  "created": "2025-12-06T05:35:16.033052000Z",
+  "checksum": {
+    "k8s.sysml": {
+      "value": "",
+      "algorithm": "NONE"
+    }
+  }
+}
